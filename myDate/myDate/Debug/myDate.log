@@ -1,0 +1,6 @@
+﻿  driver.cpp
+c:\users\justin\documents\github\dateconverter\mydate\mydate\driver.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\justin\documents\github\dateconverter\mydate\mydate\mydate.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\justin\documents\github\dateconverter\mydate\mydate\mydate.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\justin\documents\github\dateconverter\mydate\mydate\driver.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  myDate.vcxproj -> C:\Users\Justin\Documents\GitHub\DateConverter\myDate\Debug\myDate.exe
